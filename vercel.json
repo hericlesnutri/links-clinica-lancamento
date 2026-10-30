@@ -3,57 +3,57 @@
   "redirects": [
     {
       "source": "/botox",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20botox%20full%20face%2C%20com%20peeling%20de%20diamante%20e%20hidrata%C3%A7%C3%A3o%20facial",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20botox%20full%20face%2C%20com%20peeling%20de%20diamante%20e%20hidrata%C3%A7%C3%A3o%20facial",
       "permanent": false
     },
     {
       "source": "/preenchimento-labial",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20preenchimento%20labial%20com%20revitaliza%C3%A7%C3%A3o%20e%20garantir%20meu%20presente",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20preenchimento%20labial%20com%20revitaliza%C3%A7%C3%A3o%20e%20garantir%20meu%20presente",
       "permanent": false
     },
     {
       "source": "/massagem",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20plano%20mensal%20de%20massagem%20com%204%20sess%C3%B5es",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20plano%20mensal%20de%20massagem%20com%204%20sess%C3%B5es",
       "permanent": false
     },
     {
       "source": "/massagem-assinatura",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20assinatura%20de%20massagem%20relaxante%20com%201%20sess%C3%A3o%20mensal",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20assinatura%20de%20massagem%20relaxante%20com%201%20sess%C3%A3o%20mensal",
       "permanent": false
     },
     {
       "source": "/nutri",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20plano%20trimestral%20com%20o%20nutri",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20plano%20trimestral%20com%20o%20nutri",
       "permanent": false
     },
     {
       "source": "/bioestimulador-colageno",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20bioestimulador%20de%20col%C3%A1geno%20com%20Peeling%20retinoico",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20bioestimulador%20de%20col%C3%A1geno%20com%20Peeling%20retinoico",
       "permanent": false
     },
     {
       "source": "/secagem-vasinhos",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20secagem%20de%20vasinhos%20com%203%20sess%C3%B5es",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20secagem%20de%20vasinhos%20com%203%20sess%C3%B5es",
       "permanent": false
     },
     {
       "source": "/bioestimulador-peeling",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20Bioestimulador%20com%20peeling%20retinoico",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20Bioestimulador%20com%20peeling%20retinoico",
       "permanent": false
     },
     {
       "source": "/boom-colageno",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20Boom%20de%20col%C3%A1geno%20com%20laser%20e%20injet%C3%A1vel",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20Boom%20de%20col%C3%A1geno%20com%20laser%20e%20injet%C3%A1vel",
       "permanent": false
     },
     {
       "source": "/bumbum-up",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20Bumbum%20UP%20e%20ganhar%20minha%20sess%C3%A3o%20de%20PUMP",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20Bumbum%20UP%20e%20ganhar%20minha%20sess%C3%A3o%20de%20PUMP",
       "permanent": false
     },
     {
       "source": "/empina-bumbum",
-      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20protocolo%20Empina%20Bumbum%20com%20Bioestimulador%20e%20Preenchimento",
+      "destination": "whatsapp://send?phone=5547997444018&text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20protocolo%20Empina%20Bumbum%20com%20Bioestimulador%20e%20Preenchimento",
       "permanent": false
     }
   ]

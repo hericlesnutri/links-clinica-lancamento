@@ -1,6 +1,6 @@
 # Links de lançamento — Clínica Girlane Ferreira
 
-Projeto estático para redirecionar caminhos curtos do domínio da clínica para conversas do WhatsApp com mensagens pré-preenchidas.
+Projeto estático para redirecionar caminhos curtos do domínio da clínica diretamente para o aplicativo WhatsApp com mensagens pré-preenchidas.
 
 ## Caminhos
 
@@ -16,4 +16,4 @@ Projeto estático para redirecionar caminhos curtos do domínio da clínica para
 - `/bumbum-up`
 - `/empina-bumbum`
 
-Os redirecionamentos são temporários para permitir a troca futura das mensagens sem cache permanente no navegador.
+Os redirecionamentos usam o protocolo `whatsapp://` e são temporários para permitir a troca futura das mensagens sem cache permanente no navegador.
