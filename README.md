@@ -9,7 +9,7 @@ Projeto estático para redirecionar caminhos curtos do domínio da clínica para
 - `/massagem`
 - `/massagem-assinatura`
 - `/nutri`
-- `/bioestimulador-colageno`
+- `/bioestimulador-botox`
 - `/secagem-vasinhos`
 - `/bioestimulador-peeling`
 - `/boom-colageno`
