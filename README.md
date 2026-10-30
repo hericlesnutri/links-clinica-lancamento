@@ -15,5 +15,6 @@ Projeto estático para redirecionar caminhos curtos do domínio da clínica para
 - `/boom-colageno`
 - `/bumbum-up`
 - `/empina-bumbum`
+- `/spa-labial`
 
 Os redirecionamentos são temporários para permitir a troca futura das mensagens sem cache permanente no navegador.

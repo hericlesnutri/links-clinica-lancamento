@@ -55,6 +55,11 @@
       "source": "/empina-bumbum",
       "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20protocolo%20Empina%20Bumbum%20com%20Bioestimulador%20e%20Preenchimento",
       "permanent": false
+    },
+    {
+      "source": "/spa-labial",
+      "destination": "https://wa.me/5547997444018?text=Oi%2C%20eu%20quero%20aproveitar%20a%20oportunidade%20de%20preenchimento%20labial%20com%20spa%20labial%20e%20ganhar%20meu%20presente",
+      "permanent": false
     }
   ]
 }
